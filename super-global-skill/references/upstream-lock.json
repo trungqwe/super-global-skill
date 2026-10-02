@@ -1,0 +1,30 @@
+[
+  {
+    "name": "agent-skills-standard",
+    "remote": "https://github.com/HoangNguyen0403/agent-skills-standard.git",
+    "commit": "fa8f0ec07ba76445350090f08e2b80d6e283bbae",
+    "commit_date": "2026-09-15T08:58:31+07:00",
+    "checked_at": "2026-09-22T20:41:04.296561+00:00"
+  },
+  {
+    "name": "ai-context-master",
+    "remote": "https://github.com/adamwang99/ai-context-master.git",
+    "commit": "2fac6d69ef2bc6508a01f0e00cc07349c1892cd5",
+    "commit_date": "2026-04-14T17:34:44+07:00",
+    "checked_at": "2026-09-22T20:41:04.361060+00:00"
+  },
+  {
+    "name": "rune",
+    "remote": "https://github.com/rune-kit/rune.git",
+    "commit": "feb5f5d5d9cade3e3667913af468a0b1f929ff2e",
+    "commit_date": "2026-08-16T13:31:59+07:00",
+    "checked_at": "2026-09-22T20:41:04.414789+00:00"
+  },
+  {
+    "name": "superpowers",
+    "remote": "https://github.com/obra/superpowers.git",
+    "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+    "commit_date": "2026-09-18T17:31:35-07:00",
+    "checked_at": "2026-09-22T20:41:04.468912+00:00"
+  }
+]

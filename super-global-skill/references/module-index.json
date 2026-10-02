@@ -1,0 +1,555 @@
+[
+  {
+    "id": "ai-context-master",
+    "description": "Use when explicitly operating MemoryOS, Context Hub or the AI Context Master runtime.",
+    "path": "references/modules/ai-context-master/MODULE.md",
+    "chars": 854,
+    "source_entry_sha256": "961a7c7e4db4de94b8e8e4e8256b4a7927799ee1e840e89a59fff4b172f7f084"
+  },
+  {
+    "id": "architecture-solution-review",
+    "description": "Use when choosing architecture or technology with consequential tradeoffs.",
+    "path": "references/modules/architecture-solution-review/MODULE.md",
+    "chars": 627,
+    "source_entry_sha256": "1425e2ceefd19eb60adbf8be665287c63b529d455f502d11833e0e826e8b2bf9"
+  },
+  {
+    "id": "autonomous-project-ops",
+    "description": "Use when implementing or fixing a project end to end with verification.",
+    "path": "references/modules/autonomous-project-ops/MODULE.md",
+    "chars": 968,
+    "source_entry_sha256": "586db6b23dd86f0012b0d19f9304cfaedca0407cc3896dccd71cd734e4620e07"
+  },
+  {
+    "id": "context-memory-ops",
+    "description": "Use when resuming, handing off or compacting an ongoing task.",
+    "path": "references/modules/context-memory-ops/MODULE.md",
+    "chars": 802,
+    "source_entry_sha256": "34721e7ea4c2273750874b09dd059022672185d7b98c63049d2b9077f4613478"
+  },
+  {
+    "id": "gepeto",
+    "description": "Use when building or modifying Pinokio one-click launcher scripts.",
+    "path": "references/modules/gepeto/MODULE.md",
+    "chars": 758,
+    "source_entry_sha256": "eca54d68a836774a7bbf9e6b6074885dd7fe480d2296cf85216afa75fdeda191"
+  },
+  {
+    "id": "pinokio",
+    "description": "Use when discovering, launching or inspecting apps through Pinokio.",
+    "path": "references/modules/pinokio/MODULE.md",
+    "chars": 708,
+    "source_entry_sha256": "d6ff48ada8df4fdc56ee44f6a55f1f971d05eb386245f7ed8b0aba8195b7a379"
+  },
+  {
+    "id": "rune-adversary",
+    "description": "Use when stress-testing a proposed implementation before coding.",
+    "path": "references/modules/rune-adversary/MODULE.md",
+    "chars": 599,
+    "source_entry_sha256": "0564f684c1ab2f90db497bb2ac733da96cf2df9c1495205cdca613591bf9d69a"
+  },
+  {
+    "id": "rune-asset-creator",
+    "description": "Use when creating SVG icons, social banners or code-based diagrams.",
+    "path": "references/modules/rune-asset-creator/MODULE.md",
+    "chars": 605,
+    "source_entry_sha256": "4e4e7d1e0d32f137b40faa1dc39fac36761cdc4956a17ff51e9911118a480444"
+  },
+  {
+    "id": "rune-audit",
+    "description": "Use when auditing project health across security, architecture and quality.",
+    "path": "references/modules/rune-audit/MODULE.md",
+    "chars": 627,
+    "source_entry_sha256": "91c831cb607abed48dc5113d17b8cb0ee9097e97531692c63fad51791a64b940"
+  },
+  {
+    "id": "rune-autopsy",
+    "description": "Use when assessing a legacy codebase before a rescue or modernization.",
+    "path": "references/modules/rune-autopsy/MODULE.md",
+    "chars": 540,
+    "source_entry_sha256": "7c7b8b80d31b7502056b414fb7be934956b52b5309fb29d3d5343a60fe2bccf0"
+  },
+  {
+    "id": "rune-ba",
+    "description": "Use when clarifying ambiguous product requirements or acceptance criteria.",
+    "path": "references/modules/rune-ba/MODULE.md",
+    "chars": 565,
+    "source_entry_sha256": "dc84c0d4b86c8225660fda12d866571315fea72b5bdde3e4afbf80e8f22c6207"
+  },
+  {
+    "id": "rune-brainstorm",
+    "description": "Use when exploring materially different solutions to an open problem.",
+    "path": "references/modules/rune-brainstorm/MODULE.md",
+    "chars": 557,
+    "source_entry_sha256": "5f715c6777db65d0c8e9fcf9d4b18391ea314de4b353ecd11db4382cade29ca3"
+  },
+  {
+    "id": "rune-browser-pilot",
+    "description": "Use when reproducing or verifying browser UI behavior.",
+    "path": "references/modules/rune-browser-pilot/MODULE.md",
+    "chars": 601,
+    "source_entry_sha256": "44e2567ab6204b514ad6e9a9d0692370a7ecfee5f63e56dbe32531e37294bced"
+  },
+  {
+    "id": "rune-completion-gate",
+    "description": "Use when checking whether a completion claim is supported by evidence.",
+    "path": "references/modules/rune-completion-gate/MODULE.md",
+    "chars": 585,
+    "source_entry_sha256": "0ee5859b2b9be59372305db6dcfec9f47baa105d036564d56eefe9d07872e04d"
+  },
+  {
+    "id": "rune-constraint-check",
+    "description": "Use when checking compliance with applicable task and repository requirements.",
+    "path": "references/modules/rune-constraint-check/MODULE.md",
+    "chars": 550,
+    "source_entry_sha256": "edb7f151173b8b5854de2b4d9c87cc2a334cfff78865fbb953bb7488e9371b1c"
+  },
+  {
+    "id": "rune-context-engine",
+    "description": "Use when compacting a long task while preserving resumability.",
+    "path": "references/modules/rune-context-engine/MODULE.md",
+    "chars": 569,
+    "source_entry_sha256": "1a880c471f448c5e160585cdb70f7dd0abba3ec9ab61042c3fd44d830084daa4"
+  },
+  {
+    "id": "rune-cook",
+    "description": "Use when explicitly running a Rune implementation workflow.",
+    "path": "references/modules/rune-cook/MODULE.md",
+    "chars": 604,
+    "source_entry_sha256": "503a5256247eea9464899767972bc1ca139201ca56707a837fef68d1fd409d19"
+  },
+  {
+    "id": "rune-db",
+    "description": "Use when changing database schemas, queries or data migrations.",
+    "path": "references/modules/rune-db/MODULE.md",
+    "chars": 599,
+    "source_entry_sha256": "fc069a47f64118d01d189a0aa188953af1fd9d64350b589ff3b7bbe979bf8d07"
+  },
+  {
+    "id": "rune-debug",
+    "description": "Use when diagnosing reproducible or intermittent software failures.",
+    "path": "references/modules/rune-debug/MODULE.md",
+    "chars": 681,
+    "source_entry_sha256": "fb81fe4f19243899f4221ea55dbd9e6a15636552a0a45a3993edb95fac22a332"
+  },
+  {
+    "id": "rune-dependency-doctor",
+    "description": "Use when updating dependencies or investigating dependency vulnerabilities.",
+    "path": "references/modules/rune-dependency-doctor/MODULE.md",
+    "chars": 620,
+    "source_entry_sha256": "49703cec07d51c3dc2129f69eedc8d26c4f8a508fc331cd27921db6e4a53f86b"
+  },
+  {
+    "id": "rune-deploy",
+    "description": "Use when deploying an application to an explicitly selected environment.",
+    "path": "references/modules/rune-deploy/MODULE.md",
+    "chars": 640,
+    "source_entry_sha256": "a3a397db221cbc5299138a8c64e1ba75efc768dd8c7a2852f5b9946e119cb2f7"
+  },
+  {
+    "id": "rune-design",
+    "description": "Use when defining a UI design system or interaction contract.",
+    "path": "references/modules/rune-design/MODULE.md",
+    "chars": 608,
+    "source_entry_sha256": "2a0b06bdd4710a4edc3ed75358658ec7e688a00ea1ae1582b16805eb4c6d453a"
+  },
+  {
+    "id": "rune-doc-processor",
+    "description": "Use when choosing a workflow for PDF, Word, spreadsheet or slide artifacts.",
+    "path": "references/modules/rune-doc-processor/MODULE.md",
+    "chars": 571,
+    "source_entry_sha256": "5a9b67785d3e7fca26fbccff36587a869b233a484eae0313ec8fac95129a2402"
+  },
+  {
+    "id": "rune-docs",
+    "description": "Use when updating documentation to match a code or workflow change.",
+    "path": "references/modules/rune-docs/MODULE.md",
+    "chars": 587,
+    "source_entry_sha256": "8da47cfe61faba6aeaa391fdef30c9f5329ddb8d6dca31598d860581d7ad2d4b"
+  },
+  {
+    "id": "rune-docs-seeker",
+    "description": "Use when finding authoritative API documentation or resolving an error message.",
+    "path": "references/modules/rune-docs-seeker/MODULE.md",
+    "chars": 590,
+    "source_entry_sha256": "6e0a6af58c9a520afc1e2f2c83ab5cfe307fc908555db8bf5619a89ae7bf4c59"
+  },
+  {
+    "id": "rune-ext-ai-ml",
+    "description": "Use when LLM, RAG, embeddings or ML integration.",
+    "path": "references/modules/rune-ext-ai-ml/MODULE.md",
+    "chars": 752,
+    "source_entry_sha256": "b0a4a630ab91a305b1b0388c364844d9c6f518da7778f6f1c86b3114bc679211"
+  },
+  {
+    "id": "rune-ext-analytics",
+    "description": "Use when event tracking, experiments or product analytics.",
+    "path": "references/modules/rune-ext-analytics/MODULE.md",
+    "chars": 704,
+    "source_entry_sha256": "0fdbf3d5df353d1562f014781d7209c620e8b1d3165164fbabbb247763f3fc74"
+  },
+  {
+    "id": "rune-ext-backend",
+    "description": "Use when backend APIs, authentication, caching or background jobs.",
+    "path": "references/modules/rune-ext-backend/MODULE.md",
+    "chars": 708,
+    "source_entry_sha256": "a55e9f9d50e9f8b1a179ca8ecd0b4f1e4822678014caf0bf97fa96276103d125"
+  },
+  {
+    "id": "rune-ext-chrome-ext",
+    "description": "Use when browser extension development.",
+    "path": "references/modules/rune-ext-chrome-ext/MODULE.md",
+    "chars": 725,
+    "source_entry_sha256": "be307cf143c15cdf9fd20c330a4178cbe8588606fa001fa0bdb6110a5abee919"
+  },
+  {
+    "id": "rune-ext-content",
+    "description": "Use when CMS, blog, MDX, localization or SEO systems.",
+    "path": "references/modules/rune-ext-content/MODULE.md",
+    "chars": 702,
+    "source_entry_sha256": "c89e9c72a739394363fbfdab83b817e45b21d4d01051f30e8c73ff4b47cdf00d"
+  },
+  {
+    "id": "rune-ext-devops",
+    "description": "Use when containers, CI/CD, infrastructure or service configuration.",
+    "path": "references/modules/rune-ext-devops/MODULE.md",
+    "chars": 712,
+    "source_entry_sha256": "086ef7042b356e28d4dc547722097e485c15aea2d7adfef9ec5afa076379178c"
+  },
+  {
+    "id": "rune-ext-ecommerce",
+    "description": "Use when shopping carts, payments or commerce integrations.",
+    "path": "references/modules/rune-ext-ecommerce/MODULE.md",
+    "chars": 707,
+    "source_entry_sha256": "29f2c496b3ca30af3258ff7ba10b628625468a34d265d889d68b7bdef1efbb47"
+  },
+  {
+    "id": "rune-ext-gamedev",
+    "description": "Use when game loops, graphics, physics or interactive 3D.",
+    "path": "references/modules/rune-ext-gamedev/MODULE.md",
+    "chars": 698,
+    "source_entry_sha256": "cf9b9576327c487564e9b69dced8d23b0e40edddada13191f0cf8d9e1b8cadf0"
+  },
+  {
+    "id": "rune-ext-mobile",
+    "description": "Use when native or cross-platform mobile implementation.",
+    "path": "references/modules/rune-ext-mobile/MODULE.md",
+    "chars": 698,
+    "source_entry_sha256": "66661359554bc05b52f8a108ba47335efaf8b4837407a69cec6e0ed919503ace"
+  },
+  {
+    "id": "rune-ext-saas",
+    "description": "Use when multi-tenant SaaS, subscriptions or feature entitlements.",
+    "path": "references/modules/rune-ext-saas/MODULE.md",
+    "chars": 702,
+    "source_entry_sha256": "656b54a4691f91c371d25490a79976d9779b83e19590f87abbb830f9f042b4fe"
+  },
+  {
+    "id": "rune-ext-security",
+    "description": "Use when deep application security analysis.",
+    "path": "references/modules/rune-ext-security/MODULE.md",
+    "chars": 724,
+    "source_entry_sha256": "302dd0764e9725f1b71c001b93cebebe5ae396ea73e742f9f68c3858a5e5e96d"
+  },
+  {
+    "id": "rune-ext-trading",
+    "description": "Use when financial dashboards, market data or strategy research.",
+    "path": "references/modules/rune-ext-trading/MODULE.md",
+    "chars": 740,
+    "source_entry_sha256": "0dfb998d2edad216e0dd2cc04dfafe782e2274296b34cd9084494ee06ce321ee"
+  },
+  {
+    "id": "rune-ext-ui",
+    "description": "Use when frontend components, accessibility or responsive interaction.",
+    "path": "references/modules/rune-ext-ui/MODULE.md",
+    "chars": 701,
+    "source_entry_sha256": "8f0eabe19f4785b5a48029b33167ae76927d9ed2d1be86f467083f0b7d59c025"
+  },
+  {
+    "id": "rune-fix",
+    "description": "Use when applying a diagnosed bug fix or bounded implementation change.",
+    "path": "references/modules/rune-fix/MODULE.md",
+    "chars": 591,
+    "source_entry_sha256": "495f08c99e5372a35257f582927d8842df1684311524d2f71fd0bb3b7588e486"
+  },
+  {
+    "id": "rune-git",
+    "description": "Use when creating commits, branches, pull requests or resolving Git conflicts.",
+    "path": "references/modules/rune-git/MODULE.md",
+    "chars": 613,
+    "source_entry_sha256": "449a6cc738f03559bafe969cf51e278bcb038e196e9832009a4cb4c7e5b4e6c6"
+  },
+  {
+    "id": "rune-hallucination-guard",
+    "description": "Use when verifying unfamiliar package names, imports or API calls.",
+    "path": "references/modules/rune-hallucination-guard/MODULE.md",
+    "chars": 586,
+    "source_entry_sha256": "87a067a3b07839fc91a349151a26dc08c665fb18e3a9bae3ee03d3fd11bae651"
+  },
+  {
+    "id": "rune-incident",
+    "description": "Use when responding to a production outage or active service degradation.",
+    "path": "references/modules/rune-incident/MODULE.md",
+    "chars": 578,
+    "source_entry_sha256": "6cae6749aecf4e0b5c320bccc61606aa0b3971d79d77a4e3d29aa12768863310"
+  },
+  {
+    "id": "rune-integrity-check",
+    "description": "Use when checking imported instructions, persisted memory or agent artifacts for tampering.",
+    "path": "references/modules/rune-integrity-check/MODULE.md",
+    "chars": 634,
+    "source_entry_sha256": "db0ea275fd84c70f243c9210bd39d856c96edd165040b6e5f2f0eabf419d65e5"
+  },
+  {
+    "id": "rune-journal",
+    "description": "Use when recording a durable architecture decision or project checkpoint.",
+    "path": "references/modules/rune-journal/MODULE.md",
+    "chars": 588,
+    "source_entry_sha256": "b1c109d833ca50026778e921ef04d65a52468f774e4a816ea997b441d7d31124"
+  },
+  {
+    "id": "rune-launch",
+    "description": "Use when coordinating a release with explicitly requested launch materials.",
+    "path": "references/modules/rune-launch/MODULE.md",
+    "chars": 576,
+    "source_entry_sha256": "14b142fd047a33be4c5c3c346560d1599fb66e8d5c0a839a0cb0065f78e4b35a"
+  },
+  {
+    "id": "rune-logic-guardian",
+    "description": "Use when protecting complex business rules during edits.",
+    "path": "references/modules/rune-logic-guardian/MODULE.md",
+    "chars": 599,
+    "source_entry_sha256": "00f1bac0f8aa7ffee57dc93f55897340e0be0859ba44e6a3dd4c8982e71e4094"
+  },
+  {
+    "id": "rune-marketing",
+    "description": "Use when writing product positioning or launch content.",
+    "path": "references/modules/rune-marketing/MODULE.md",
+    "chars": 528,
+    "source_entry_sha256": "6351b747eb80e20fffc5282994960ab96e17e590cef92311427673a29f3eb0ae"
+  },
+  {
+    "id": "rune-mcp-builder",
+    "description": "Use when building or extending an MCP server.",
+    "path": "references/modules/rune-mcp-builder/MODULE.md",
+    "chars": 630,
+    "source_entry_sha256": "9e82b9d42515c6c9504812e59a7f06bc88b2257369694d85aac36d29238b16b5"
+  },
+  {
+    "id": "rune-neural-memory",
+    "description": "Use when explicitly using a connected Neural Memory service.",
+    "path": "references/modules/rune-neural-memory/MODULE.md",
+    "chars": 617,
+    "source_entry_sha256": "268f78c9fb8738814a9150c3b2ea660db04c516ca0c034d038c28aae97c84dae"
+  },
+  {
+    "id": "rune-onboard",
+    "description": "Use when creating concise project guidance for future agents.",
+    "path": "references/modules/rune-onboard/MODULE.md",
+    "chars": 555,
+    "source_entry_sha256": "abe831b64274f2c68fde278d8ffa77f33c31ff8bd66a148b29a485555e7c2a03"
+  },
+  {
+    "id": "rune-perf",
+    "description": "Use when investigating latency, resource usage or performance regressions.",
+    "path": "references/modules/rune-perf/MODULE.md",
+    "chars": 611,
+    "source_entry_sha256": "d05697299b5bb627572b9d398a247ceebe37391c3412f1c430ed5232e96865cd"
+  },
+  {
+    "id": "rune-plan",
+    "description": "Use when turning a complex requirement into an executable implementation plan.",
+    "path": "references/modules/rune-plan/MODULE.md",
+    "chars": 530,
+    "source_entry_sha256": "b73a337179bcbf8429bcce084b460cdeefd578cd92064715c3fdcf6ce5d0a88b"
+  },
+  {
+    "id": "rune-preflight",
+    "description": "Use when reviewing a change before committing or handing it off.",
+    "path": "references/modules/rune-preflight/MODULE.md",
+    "chars": 603,
+    "source_entry_sha256": "86b0da9b1bde6a7af28cd59a0ea0c22890c4ced4536e03d06e5c8f2dce995d7a"
+  },
+  {
+    "id": "rune-problem-solver",
+    "description": "Use when structuring a complex problem with uncertain causes or tradeoffs.",
+    "path": "references/modules/rune-problem-solver/MODULE.md",
+    "chars": 600,
+    "source_entry_sha256": "b71172be33339b104fa89c8bea7f2ab467e71544fb513161c409aaaf04c9045a"
+  },
+  {
+    "id": "rune-rescue",
+    "description": "Use when modernizing a legacy system incrementally.",
+    "path": "references/modules/rune-rescue/MODULE.md",
+    "chars": 550,
+    "source_entry_sha256": "0e24b8079d68886bd899a332a5502bba409b0c1fecd07767a8825cf40c035fcb"
+  },
+  {
+    "id": "rune-research",
+    "description": "Use when researching current external technical facts.",
+    "path": "references/modules/rune-research/MODULE.md",
+    "chars": 564,
+    "source_entry_sha256": "cd391cc14b6c23341f206f5b67dfa5dab42a45505930a91bc5dff4474269c178"
+  },
+  {
+    "id": "rune-review",
+    "description": "Use when reviewing a code diff for actionable correctness issues.",
+    "path": "references/modules/rune-review/MODULE.md",
+    "chars": 597,
+    "source_entry_sha256": "1c32c1ec5451d8e1bd7ff355d21dce567e2cec31f6833449c7e80632f6ab6b9b"
+  },
+  {
+    "id": "rune-review-intake",
+    "description": "Use when evaluating external code review feedback before implementation.",
+    "path": "references/modules/rune-review-intake/MODULE.md",
+    "chars": 568,
+    "source_entry_sha256": "caf79963947d6d78550ff10c26d5b65aa3f852f63f6888bc4a417a23872cab33"
+  },
+  {
+    "id": "rune-safeguard",
+    "description": "Use when establishing safety checks before a risky refactor.",
+    "path": "references/modules/rune-safeguard/MODULE.md",
+    "chars": 544,
+    "source_entry_sha256": "8f31e216691fda285033e2f783de1fbaa6b25a2e5c45ab3eccde0fba5f33c967"
+  },
+  {
+    "id": "rune-sast",
+    "description": "Use when running static security or quality analyzers.",
+    "path": "references/modules/rune-sast/MODULE.md",
+    "chars": 548,
+    "source_entry_sha256": "825c27744026285d40e1ac547b83c95ce594e580599947254c29945f0812c058"
+  },
+  {
+    "id": "rune-scaffold",
+    "description": "Use when bootstrapping a complete new software project.",
+    "path": "references/modules/rune-scaffold/MODULE.md",
+    "chars": 561,
+    "source_entry_sha256": "c2aa2027cfcdc37aef3e37f054f99c1ea006977c12aa1b4b30ac52f5b548aaaf"
+  },
+  {
+    "id": "rune-scope-guard",
+    "description": "Use when checking whether changes remain within the requested scope.",
+    "path": "references/modules/rune-scope-guard/MODULE.md",
+    "chars": 595,
+    "source_entry_sha256": "44b7b7045290fc1fdd7c201cce31c62f8ae1d9ada1b4c7d7483a46f1c6120ebd"
+  },
+  {
+    "id": "rune-scout",
+    "description": "Use when locating code structure and implementation seams.",
+    "path": "references/modules/rune-scout/MODULE.md",
+    "chars": 584,
+    "source_entry_sha256": "691cb1b774df3d15a1b9dac2b827499be06a7a56955094b22d6ecc2b3d946b37"
+  },
+  {
+    "id": "rune-sentinel",
+    "description": "Use when checking a change for exploitable security defects.",
+    "path": "references/modules/rune-sentinel/MODULE.md",
+    "chars": 572,
+    "source_entry_sha256": "dc1eece4a29bae5effc33aba15ca298876354c740460c64648ff79011d1d6f59"
+  },
+  {
+    "id": "rune-sentinel-env",
+    "description": "Use when diagnosing a runtime, dependency or build-environment mismatch.",
+    "path": "references/modules/rune-sentinel-env/MODULE.md",
+    "chars": 590,
+    "source_entry_sha256": "b16e68bcf2806085066905fdb0ee890ac190104fb1044f5c8a2293d57876b996"
+  },
+  {
+    "id": "rune-sequential-thinking",
+    "description": "Use when reasoning through an interdependent technical decision.",
+    "path": "references/modules/rune-sequential-thinking/MODULE.md",
+    "chars": 576,
+    "source_entry_sha256": "17d01e607c51697a99325e724965ba6d55f148c10dca9befaf53f9dec25f5242"
+  },
+  {
+    "id": "rune-session-bridge",
+    "description": "Use when saving or restoring a cross-session project handoff.",
+    "path": "references/modules/rune-session-bridge/MODULE.md",
+    "chars": 570,
+    "source_entry_sha256": "feeea160174b4200cabd4511588f7646139f6476ec9850887023c9130895c795"
+  },
+  {
+    "id": "rune-skill-forge",
+    "description": "Use when creating or revising a reusable Rune skill.",
+    "path": "references/modules/rune-skill-forge/MODULE.md",
+    "chars": 650,
+    "source_entry_sha256": "3ac2530221380c73c4ae3bf59315adc9ebadae0f1f2c210a61792386d5cf44bc"
+  },
+  {
+    "id": "rune-skill-router",
+    "description": "Use when explicitly selecting a Rune specialist for a task.",
+    "path": "references/modules/rune-skill-router/MODULE.md",
+    "chars": 759,
+    "source_entry_sha256": "b54299b59d9a625cc5c63d39a43dc2f3e6449bcf1f3e03c3c3544d58a789cc91"
+  },
+  {
+    "id": "rune-surgeon",
+    "description": "Use when refactoring one bounded module while preserving behavior.",
+    "path": "references/modules/rune-surgeon/MODULE.md",
+    "chars": 522,
+    "source_entry_sha256": "53e654abde30e61e491a276e7a18edfd0d7eeb5b271c0584b6ae34cf641804d2"
+  },
+  {
+    "id": "rune-team",
+    "description": "Use when explicitly coordinating parallel agents on independent subtasks.",
+    "path": "references/modules/rune-team/MODULE.md",
+    "chars": 585,
+    "source_entry_sha256": "8f73e448541d373031debf22014ffcae14cc0b05eb230d3fc20fa8a3257c6c12"
+  },
+  {
+    "id": "rune-test",
+    "description": "Use when adding meaningful automated regression or behavior tests.",
+    "path": "references/modules/rune-test/MODULE.md",
+    "chars": 596,
+    "source_entry_sha256": "3e6c56964b6119050fd76241a9b99851a1d8f83b7bda29a5b53f68d81f7e81bb"
+  },
+  {
+    "id": "rune-trend-scout",
+    "description": "Use when researching current market or technology trends.",
+    "path": "references/modules/rune-trend-scout/MODULE.md",
+    "chars": 559,
+    "source_entry_sha256": "203d8474f3f658d006d708b4ce7176893d53c2b73061b21bdd8923c84596c8d4"
+  },
+  {
+    "id": "rune-verification",
+    "description": "Use when verifying an implemented change with runnable checks.",
+    "path": "references/modules/rune-verification/MODULE.md",
+    "chars": 674,
+    "source_entry_sha256": "b98edd12dd3bafc87ff6a3e141fb9457f9ceb162d861f31bc758735afb18abd2"
+  },
+  {
+    "id": "rune-video-creator",
+    "description": "Use when planning a video script, storyboard or shot list.",
+    "path": "references/modules/rune-video-creator/MODULE.md",
+    "chars": 526,
+    "source_entry_sha256": "aab9f38cd3117893ed6d269f1d6c307826d3ee99d1f0a6ea69314af2ae568ea4"
+  },
+  {
+    "id": "rune-watchdog",
+    "description": "Use when checking the health of a deployed release.",
+    "path": "references/modules/rune-watchdog/MODULE.md",
+    "chars": 579,
+    "source_entry_sha256": "7e6ad0535cc37b63ac2f17f513806414174fc7f4cc45c24fa49309d440d34bdc"
+  },
+  {
+    "id": "rune-worktree",
+    "description": "Use when creating an isolated Git checkout for concurrent or risky work.",
+    "path": "references/modules/rune-worktree/MODULE.md",
+    "chars": 614,
+    "source_entry_sha256": "aa96d74abf241eaaaab7e95024bd766376d3a5b0511647cab3d0aac3c62641a4"
+  },
+  {
+    "id": "skill-leader",
+    "description": "Use when a task spans multiple disciplines and needs skill selection.",
+    "path": "references/modules/skill-leader/MODULE.md",
+    "chars": 1285,
+    "source_entry_sha256": "185ee81719e43c278b19ebf2ba5c5b160ecac18e23f25b1de55584dcb8e2c0e0"
+  },
+  {
+    "id": "workflow-orchestrator",
+    "description": "Use when planning dependent stages, risks and durable progress for complex work.",
+    "path": "references/modules/workflow-orchestrator/MODULE.md",
+    "chars": 756,
+    "source_entry_sha256": "b3b3c161e709d54c497945de740642bd04d9f09be896f56d31d3eac81504a882"
+  }
+]

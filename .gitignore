@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+.venv/
+
+# Pytest / coverage
+.pytest_cache/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Installation receipts and transaction staging
+.receipts/
+.tx-*/
+.super-skill-install.json
+.super-global-native.json

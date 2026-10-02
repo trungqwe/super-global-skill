@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Global Skill"
+  short_description: "Tự chọn workflow coding đa nền tảng"
+  default_prompt: "Dùng $super-global-skill để chọn workflow phù hợp và kiểm chứng công việc."

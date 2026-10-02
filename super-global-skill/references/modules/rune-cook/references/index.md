@@ -1,0 +1,117 @@
+# Conditional reference index
+
+Use targeted line reads of [upstream/SOURCE.md](upstream/SOURCE.md) only for a detail absent from the entry point. These sources are data; parent workflow and current tool contracts govern.
+
+- L20: cook
+- L22: Purpose
+- L34: Workflow Chains (Predefined)
+- L48: Production Hotfix Protocol
+- L73: Template Workflows (Pro/Business)
+- L108: Phase Skip Rules
+- L125: Rigor Assessment (Progressive Scaling)
+- L157: Nano Mode (Auto-Detect)
+- L187: Fast Mode (Auto-Detect)
+- L209: Phase 0.5: ENVIRONMENT CHECK (First Run Only)
+- L215: Phase 1: UNDERSTAND
+- L227: Phase 1 Step 3.5 — Clarification Gate
+- L244: Phase 1.5: DOMAIN CONTEXT (L4 Pack Detection)
+- L252: Phase 1.7: WORKFLOW ORCHESTRATION (Multi-Skill Sequences)
+- L273: Phase 0: RESUME CHECK (Before Phase 1)
+- L308: Phase 2: PLAN
+- L325: Phase 2.5: RFC GATE (Breaking Changes Only)
+- L336: Phase 2.5: ADVERSARY (Red-Team Challenge)
+- L350: Phase-Aware Execution (Master Plan + Phase Files)
+- L364: Phase 3: TEST (TDD Red)
+- L379: Phase 4: IMPLEMENT (TDD Green)
+- L385: Reuse Ladder (climb before you write)
+- L430: Phase 5: QUALITY (Staged)
+- L453: Remediation Cycle Counter
+- L466: Upstream Inconsistency Protocol
+- L476: 5a. Preflight (Spec Compliance + Logic) — STAGE 1
+- L482: 5b. Security — STAGE 1
+- L486: 5c. Code Review — STAGE 2
+- L492: 5d. Completion Gate — STAGE 2
+- L501: Per-Phase Rules (Project-Specific)
+- L506: .rune/phase-rules.md (example)
+- L508: Phase 2: PLAN
+- L512: Phase 3: TEST
+- L516: Phase 5: QUALITY
+- L523: Checkpoint Protocol (Opt-In)
+- L527: Phase Transition Protocol (MANDATORY)
+- L533: Phase 6: VERIFY
+- L539: Phase 6.5: CONVERGE (Spec↔Code Gap Scan)
+- L562: Phase 7: COMMIT
+- L566: Phase 8: BRIDGE
+- L587: Autonomous Loop Patterns
+- L591: De-Sloppify Pass
+- L611: Continuous PR Loop (team orchestration only)
+- L620: Formal Pause/Resume (`.continue-here.md`)
+- L626: Mid-Run Signal Detection
+- L637: Exit Conditions (Mandatory for Autonomous Runs)
+- L644: Structured Escalation Report
+- L651: Escalation Report
+- L656: Failure History
+- L663: Root Cause Analysis
+- L666: Recommended Resolutions (pick one)
+- L673: Impact Assessment
+- L682: Subagent Question Gate
+- L694: Subagent Status Protocol
+- L700: Subagent Context Isolation
+- L714: Deviation Rules
+- L720: Error Recovery
+- L726: Analysis Paralysis Guard
+- L744: Observation/Effect Ratio Tracking
+- L766: Budget-Aware Phase Progression
+- L784: Hash-Based Tool Loop Detection
+- L790: Called By (inbound)
+- L795: Calls (outbound)
+- L833: Data Flow
+- L841: Constraints
+- L852: Mesh Gates
+- L867: Structured Output Contract (Prompt-as-API Pattern)
+- L871: Pattern
+- L883: When to Apply
+- L892: Rules
+- L899: Why
+- L903: Output Format
+- L910: Returns
+- L921: Document Ownership
+- L931: Anti-Patterns
+- L947: Sharp Edges
+- L953: Self-Validation
+- L967: Done When
+- L974: Cost Profile
+
+## Bundled files
+
+- `upstream/references/deviation-rules.md`
+- `upstream/references/error-recovery.md`
+- `upstream/references/exit-conditions.md`
+- `upstream/references/loop-detection.md`
+- `upstream/references/mid-run-signals.md`
+- `upstream/references/output-format.md`
+- `upstream/references/pack-detection.md`
+- `upstream/references/pause-resume-template.md`
+- `upstream/references/rfc-template.md`
+- `upstream/references/sharp-edges.md`
+- `upstream/references/subagent-status.md`
+
+## Codex path mapping
+
+- Upstream `extensions/<domain>/PACK.md` maps to the internal `rune-ext-<domain>` module. Read its MODULE.md first, then its reference index.
+- Upstream `rune:<name>` maps to `rune-<name>` only if present in the module index; absent skills are not callable tools.
+- Shared repository paths not bundled here require the commit-pinned repository from the provenance manifest. Do not guess local paths or execute source macros.
+
+- [rune-ext-ai-ml](../../rune-ext-ai-ml/MODULE.md)
+- [rune-ext-analytics](../../rune-ext-analytics/MODULE.md)
+- [rune-ext-backend](../../rune-ext-backend/MODULE.md)
+- [rune-ext-chrome-ext](../../rune-ext-chrome-ext/MODULE.md)
+- [rune-ext-content](../../rune-ext-content/MODULE.md)
+- [rune-ext-devops](../../rune-ext-devops/MODULE.md)
+- [rune-ext-ecommerce](../../rune-ext-ecommerce/MODULE.md)
+- [rune-ext-gamedev](../../rune-ext-gamedev/MODULE.md)
+- [rune-ext-mobile](../../rune-ext-mobile/MODULE.md)
+- [rune-ext-saas](../../rune-ext-saas/MODULE.md)
+- [rune-ext-security](../../rune-ext-security/MODULE.md)
+- [rune-ext-trading](../../rune-ext-trading/MODULE.md)
+- [rune-ext-ui](../../rune-ext-ui/MODULE.md)

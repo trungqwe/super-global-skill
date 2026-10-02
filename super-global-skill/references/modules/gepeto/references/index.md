@@ -1,0 +1,57 @@
+# Runtime reference index
+
+Read only the relevant range of [runtime-guide.md](runtime-guide.md). Resolve <PINOKIO_HOME> from the current user configuration; consult the current local prototype before relying on historical APIs.
+
+- L2: Development Guide for Pinokio Projects
+- L4: Non-Negotiable Execution Workflow
+- L15: Critical Pattern Lock: Capturing Web UI URLs
+- L48: Determine User Intent
+- L57: Working With Launchers
+- L65: 1. App launchers
+- L73: 2. Plugin launchers
+- L82: 3. Apply structure rules only after choosing the launcher type
+- L86: Project Structure
+- L124: Launcher Project Working Directory
+- L163: Development Workflow
+- L165: 1. Understanding the Project
+- L168: 2. Modifying Existing Launcher Projects
+- L173: 3. Try to adopt from examples as much as possible
+- L176: 4. Writing from scratch as a last resort
+- L178: 5. Debugging
+- L181: Script Requirements
+- L183: 1. 1-click launchable
+- L186: 2. Write Documentation
+- L192: Types of launchers
+- L193: 1. Launching servers
+- L252: 2. Launching serverless web apps
+- L259: 3. Launching quick scripts without web UI
+- L276: API
+- L282: Script API
+- L309: Template variables
+- L331: System Capabilities
+- L332: Package Management (Use in Order of Preference)
+- L341: HTTPS Proxy Support
+- L345: Pterm Features:
+- L354: Troubleshooting with Logs
+- L357: Log Structure
+- L377: Log File Naming
+- L383: Best practices
+- L384: 0. Always reference the logs when debugging
+- L386: 1. Shell commands for launching programs
+- L396: 2. shell.run API
+- L402: 2. Package managers
+- L405: 3. Minimal Always
+- L413: 4. Try to support Cross-platform as much as possible
+- L420: 5. Do not make assumptions about Pinokio API
+- L423: 6. Scripts must be able to replicate install and launch steps 100%
+- L426: 7 Dynamic UI rendering
+- L436: 8. No need for stop scripts
+- L438: 9. Writing launchers for existing projects
+- L442: 10. Don't use Docker unless really necessary
+- L444: 11. pinokio.json
+- L448: 12. Gitignore
+- L455: AI Libraries (Pytorch, Xformers, Triton, Sageattention, etc.)
+- L495: Quick Reference
+- L496: Essential Documentation
+- L500: Common Patterns
+- L505: Development Principles

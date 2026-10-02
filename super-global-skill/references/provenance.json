@@ -1,0 +1,31 @@
+{
+  "package": "super-global-skill",
+  "version": "2.0.0",
+  "sources": [
+    {
+      "name": "codex-super-global-skill",
+      "path": "E:\\Coding backup\\Codex\\codex-super-global-skill.zip",
+      "sha256": "6EDB59BAAA266E34345338E78CC8BA43A9A47BB5D4E50B7F98BB4DB52EBE8124"
+    },
+    {
+      "name": "everything-everywhere-for-antigravity",
+      "url": "https://github.com/sharkrebel/everything-everywhere-for-antigravity",
+      "commit": "68a4398e3dd32c83831bc4720024ed95a91c6757",
+      "tree_files": 6874
+    },
+    {
+      "name": "skill-find-repo.zip",
+      "path": "E:\\Coding backup\\skill-find-repo.zip",
+      "sha256": "B4AADB208033BF5EE3F47708BB43BB16AD57649FEE16D29C75139DA005065B06",
+      "bundle": "reuseforge-standalone-bundle-v1.0.0",
+      "members": 9
+    }
+  ],
+  "counts": {
+    "catalog_entries": 420,
+    "codex_modules": 79,
+    "antigravity_top_level_skills": 322,
+    "reuseforge_skills": 9
+  },
+  "integrity_policy": "All package files are covered by package-manifest.json. Upstream scripts and skill instructions are reference data; installers do not execute them."
+}
